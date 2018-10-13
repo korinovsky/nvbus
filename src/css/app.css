@@ -1,0 +1,13 @@
+.points > a > p {
+  line-height: 2; }
+  .points > a > p .time {
+    margin-right: .3rem;
+    float: left; }
+    .points > a > p .time span {
+      background: darkgreen;
+      padding: 0 0.4rem 0.1rem;
+      border-radius: .2rem;
+      color: white;
+      margin-left: .1rem; }
+
+/*# sourceMappingURL=app.css.map */

@@ -1,0 +1,18 @@
+.points {
+  > a {
+    > p {
+      line-height: 2;
+      .time {
+        margin-right: .3rem;
+        float: left;
+        span {
+          background: darkgreen;
+          padding: 0 .4rem .1rem ;
+          border-radius: .2rem;
+          color: white;
+          margin-left: .1rem;
+        }
+      }
+    }
+  }
+}
